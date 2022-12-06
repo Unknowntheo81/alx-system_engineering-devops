@@ -1,2 +1,2 @@
 #!/bin/bash
-fine . -type f -name "*.jv" -delete
+find . -type f -name "*.jv" -delete
